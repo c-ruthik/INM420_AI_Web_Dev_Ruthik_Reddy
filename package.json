@@ -1,0 +1,23 @@
+{
+  "name": "inm420_ai_web_dev_ruthik_reddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "lite-server  --baseDir=\"public\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-ruthik/INM420_AI_Web_Dev_Ruthik_Reddy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-ruthik/INM420_AI_Web_Dev_Ruthik_Reddy/issues"
+  },
+  "homepage": "https://github.com/c-ruthik/INM420_AI_Web_Dev_Ruthik_Reddy#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
